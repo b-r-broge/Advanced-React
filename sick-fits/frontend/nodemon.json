@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "ignore": ["node_modules", ".next", ".vscode"],
+  "watch": ["components/**/*", "pages/**/*", "server.js"],
+  "ext": "js json"
+}
