@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next -p 7777",
+    "serve": "next -p 7777",
     "build": "next build",
     "start": "next start -p 7777",
     "test": "NODE_ENV=test jest --watch"
